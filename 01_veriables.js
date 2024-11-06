@@ -17,10 +17,13 @@ console.log(pass);
 console.log(email);
 
 //Data Types
-String
-Boolean
-Number
-undefined
-null
+// String
+// Boolean
+// Number
+// undefined
+// null = standalone value (typeof object)
+// bigInt
+// symbol
 
+// Object
 
