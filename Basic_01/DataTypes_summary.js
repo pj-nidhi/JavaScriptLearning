@@ -25,3 +25,9 @@ console.log("hello world");
 }
 
 myFunction()
+
+//++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+//Memories
+
+//Stack(Primitive) , Heap(NON-Primitive)
