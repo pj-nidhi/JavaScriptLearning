@@ -3,8 +3,8 @@ const custId = 1231;
 let Email = String;
 let Password = String;
 
-// Email = document.getElementsByClassName('Email')
-// Password = document.getElementsByClassName('Password')
+Email = document.getElementById('Email').value
+Password = document.getElementById('Password').value
 
 //Email = InputEvent
 
